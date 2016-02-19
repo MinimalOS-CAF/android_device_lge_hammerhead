@@ -7,7 +7,7 @@
  },
  {
    "remote":      "github",
-   "repository":  "Cyanogenmod/kernel_lge_hammerhead",
+   "repository":  "Cyanogenmod/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
    "branch":      "cm-13.0"
  }
