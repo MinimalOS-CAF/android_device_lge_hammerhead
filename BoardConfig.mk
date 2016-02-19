@@ -120,11 +120,11 @@ TARGET_KERNEL_SOURCE := kernel/lge/hammerhead
 # TARGET_GCC_VERSION_EXP := 5.3-uber
 
 # Optimizations
-CLANG_O3 := true
-STRICT_ALIASING := false
-KRAIT_TUNINGS := true
-GRAPHITE_OPTS := false
-ENABLE_GCCONLY := true
+# CLANG_O3 := true
+# STRICT_ALIASING := false
+# KRAIT_TUNINGS := true
+# GRAPHITE_OPTS := false
+# ENABLE_GCCONLY := true
 
 # Block builds
 BLOCK_BASED_OTA=false
